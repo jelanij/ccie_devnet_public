@@ -1,1 +1,2 @@
-# ccie_devnet_public
+# CCIE Study Material
+Journey towards the CCIE DevNET test
